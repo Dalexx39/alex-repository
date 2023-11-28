@@ -1,0 +1,16 @@
+table, td, th {
+    border: 1px solid black;
+}
+body {
+    background: gray;
+}
+td, th {
+    padding: 10px 130px;
+    text-align: center;
+}
+th {
+    background: coral;
+}
+tbody tr {
+    background: gold;
+}
